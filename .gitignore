@@ -10,7 +10,7 @@ firebase-debug.log*
 .firebase/
 
 # config file
-/functions/util/config.js
+/functions/util/config
 
 # Firebase config
 
