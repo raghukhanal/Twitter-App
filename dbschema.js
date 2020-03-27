@@ -43,4 +43,4 @@ const userDetails = {
         "location": "Athens, GA"
     },
     "likes": []
-}
+};
