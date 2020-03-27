@@ -9,6 +9,14 @@ firebase-debug.log*
 # Firebase cache
 .firebase/
 
+# admin file
+/functions/util/admin.js
+
+# intellij generated
+.idea
+
+# package lock json
+package-lock.json
 
 # Firebase config
 
